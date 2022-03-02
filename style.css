@@ -1,0 +1,88 @@
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+.fpara{
+	color: red;
+}
+
+.Hozrat{
+	color: DodgerBlue;
+}
+
+.fpara{
+	color: red;
+}
+
+
+.box0{
+	color: fuchsia;
+}
+.box1{
+	height: 50%;
+	width: 50%;
+	background-color: black;
+	color: white;
+}
+img{
+	max-width: 100%;
+}
+
+.abc{
+	height: 500px;
+	width: 600px;
+	/* background-color: red; */
+}
+
+.abc1{
+	height: 33%;
+	width: 100%;
+	background-image: url('./photos/marrige flowers.jpg');
+	background-size: cover;
+	background-position: center;
+}
+
+.abc2{
+	height: 33%;
+	width: 100%;
+	background-color: yellow;
+}
+.abc3{
+	height: 33%;
+	width: 100%;
+	background-color: blue;
+}
+
+.solid{
+	height: 300px;
+	width: 300px;
+	border-style: solid;
+	/* background-color: red; */
+	
+}
+
+.dotted{
+	height: 30px;
+	width: 300px;
+	border-style: dotted;
+	border-color: blue;
+}
+
+.green{
+	margin: 50px;
+	height: 300px;
+	width: 500px;
+	background-color: darkgreen;
+	border: none;
+	border-radius: 90px 0 90px	
+
+}
+
+.red{ background-color: red;
+ height: 200px;
+ width: 200px;
+ border-radius: 50%
+
+} 
